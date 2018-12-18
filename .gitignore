@@ -1,12 +1,6 @@
 
 # Created by https://www.gitignore.io/api/python
 
-# LaTex
-docs/projectPlan/main.synctex.gz
-docs/projectPlan/main.pdf
-docs/projectPlan/main.log
-docs/projectPlan/main.aux
-
 # VSCode
 .idea/*
 .vscode
